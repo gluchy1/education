@@ -1,4 +1,4 @@
-# My education repo.
+# My education collection/set (codes etc.)
 # Folders:
 - Leetcode codes
 - Edabit
