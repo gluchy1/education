@@ -1,0 +1,7 @@
+bash$ if test 1 == 1; then echo PRAWDA; else echo FAŁSZ; fi
+PRAWDA
+bash$ i=9
+bash$ if test $[3 * 3] == $i; then echo PRAWDA; fi
+PRAWDA
+bash$: if test $i == 4; then echo PRAWDA; fi
+bash$ _
